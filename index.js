@@ -1,5 +1,15 @@
-import { criarFila, inserirItem, retirarDaPilha } from "./fila";
+import { criarFila, inserirItem, retirarDaFila } from "./fila";
 
-criarFila()
-inserirItem()
-retirarDaPilha()
+
+
+criarFila(
+
+)
+
+inserirItem(
+
+)
+
+retirarDaFila(
+
+)
